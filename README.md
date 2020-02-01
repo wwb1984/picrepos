@@ -1,0 +1,2 @@
+# picrepos
+hexo pic repos
